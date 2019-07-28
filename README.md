@@ -1,7 +1,7 @@
-#About
+# About
 Testing WebSocket. Creating a live-connect chat in NodeJS.
 
-##Need:
+## Need:
 
 + Nodejs and npm
 + http-server
@@ -9,7 +9,7 @@ Testing WebSocket. Creating a live-connect chat in NodeJS.
 + browser
 + text editor
 
-##for Run
+## for Run
 
 1. Clone project
 2. Install ws
